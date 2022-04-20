@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## CS Club
 
 You can use the [editor on GitHub](https://github.com/zian1117/CN-CS-club/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
